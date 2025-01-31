@@ -7,7 +7,7 @@
 
 [![Linkedin: tamararahimi](https://img.shields.io/badge/-tamararahimi-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamararahimi/)](https://www.linkedin.com/in/tamararahimi/)
 [![GitHub MahrRah](https://img.shields.io/github/followers/MahrRah)](https://github.com/MahrRah)
-[![Static Badge](https://img.shields.io/badge/dev.to-Blog-white.svg)]()
+[![Static Badge](https://img.shields.io/badge/dev.to-Blog-white.svg)](https://dev.to/mahrrah)
 
 
 
