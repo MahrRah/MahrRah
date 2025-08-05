@@ -2,7 +2,7 @@
 <img align='right' src="./me.gif" width="300">
 <p><em>Software Engineer at <a href="https://careers.microsoft.com/v2/global/en/home.html">Microsoft</a> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhtaHZieWptM2Fyc2wycHpxbjlteWI5a3ZmZjFidGwwNGE1YTg4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0Iy9GydcyvaN3aqk/giphy.gif" width="15" style="vertical-align: middle;transform: rotate(-20deg)">
 
-<p><em>Former Msc student at <a href="https://ethz.ch/en.html">ETH Zurich</a> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I4Nmw5cGxpOXhoYTZndjM0em9jaDJxYjM3MzdldzdiNDJhNTVtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9iSlGflR0l9987MiFs/giphy.gif" width="30" style="vertical-align: middle; transform: rotate(30deg);">
+<p><em>Graduated Msc student from <a href="https://ethz.ch/en.html">ETH Zurich</a> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I4Nmw5cGxpOXhoYTZndjM0em9jaDJxYjM3MzdldzdiNDJhNTVtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9iSlGflR0l9987MiFs/giphy.gif" width="30" style="vertical-align: middle; transform: rotate(30deg);">
 </em></p>
 
 [![Linkedin: tamararahimi](https://img.shields.io/badge/-tamararahimi-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamararahimi/)](https://www.linkedin.com/in/tamararahimi/)
@@ -21,7 +21,7 @@ const mahra = {
   fullName: "Tamara Grosjean-Rahimi",
   pronouns: "she" | "her",
   code: [Python, Java, C#, Javascript, Bash],
-  tools: [Azure, K8s, Docker, IaC, Machine Learning],
+  tools: [Azure, K8s, Docker, IaC, AI],
 
   interests: {
                   computerScience: ["Observability", "Cloud"],
