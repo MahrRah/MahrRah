@@ -20,8 +20,8 @@
 const mahra = {
   fullName: "Tamara Grosjean-Rahimi",
   pronouns: "she" | "her",
-  code: [Python, Java, C#, Javascript, Bash],
-  tools: [Azure, K8s, Docker, IaC, AI],
+  code: ["Python", "Java", "C#", "Javascript", "Bash"],
+  tools: ["Azure", "K8s", "Docker", "IaC", "AI"],
 
   interests: {
                   computerScience: ["Observability", "Cloud"],
